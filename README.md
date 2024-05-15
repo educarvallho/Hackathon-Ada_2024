@@ -75,11 +75,11 @@ Os Gráficos aplicados foram:
 
 ## Dashboard
 
-[<img src='./imagens/dashboard.jpg' width=500>](https://app.powerbi.com/view?r=eyJrIjoiNzA5Yjg4ZTUtZGEzNi00MDc3LWI5OWMtZjFhZGNiZmVjYjc2IiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9)
+[<img src='./Imagens/dashboard.jpg' width=500>](https://app.powerbi.com/view?r=eyJrIjoiNzA5Yjg4ZTUtZGEzNi00MDc3LWI5OWMtZjFhZGNiZmVjYjc2IiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9)
 
 #### Acesso através do QRcode ou Pelo Link:
 
-<img src='./imagens/qrcode_dasboard.png' width=100>
+<img src='./Imagens/qrcode_dasboard.png' width=100>
 
 [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA5Yjg4ZTUtZGEzNi00MDc3LWI5OWMtZjFhZGNiZmVjYjc2IiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9)
 
@@ -100,17 +100,17 @@ A usabilidade da ferramenta não se limita em apenas atualização do cadastro e
 
 - Formulário de Inclusão e Diversidade
 
-[<img src='./imagens/formulario.jpg'>](https://formulario-corp-solutions.streamlit.app/)
+[<img src='./Imagens/formulario.jpg'>](https://formulario-corp-solutions.streamlit.app/)
 
 #### Use o QRcode ou Link para Acessar o app.
 
-<img src='./imagens/qrcode_formulario.png' width=100>
+<img src='./Imagens/qrcode_formulario.png' width=100>
 
 [Link do Formulário](https://formulario-corp-solutions.streamlit.app/)
 
 - Schema de Melhoria do Banco de Dados
 
-[<img src='./imagens/schema-bd.png' width=550>](./imagens/schema-bd.png)
+[<img src='./Imagens/schema-bd.png' width=550>](./imagens/schema-bd.png)
 
 
 ## Conclusões
