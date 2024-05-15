@@ -1,3 +1,12 @@
+.venv
+BR_UF
+powerbi/dashbord_hackaton_insights.pbix
+powerbi/report_hackaton.pbix
+powerbi/report_hackaton_insights.pbix
+hack_ada_ricardo.ipynb
+tratamento_dados.ipynb
+.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -7,6 +16,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Dados/
 .Python
 build/
 develop-eggs/
