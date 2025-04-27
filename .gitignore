@@ -8,7 +8,7 @@ tratamento_dados.ipynb
 .ipynb_checkpoints
 
 # Streamlit specifics
-.streamlit
+.streamlit/
 .streamlit/secrets.toml
 .streamlit/config.toml
 .streamlit/credentials.toml
